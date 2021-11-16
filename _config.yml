@@ -1,0 +1,43 @@
+# Site settings
+title:          Quantum
+description:    "make joy from tiny things..."
+baseurl:        "/quantum/"
+url:            "https://writerthethinker1.github.io/"
+
+# Author
+author:
+  name:         Chester How
+
+# Build settings
+mathjax: true #if you want to use math...
+markdown: kramdown
+highlighter: rouge
+redcarpet:
+  extensions: ['smart', 'tables', 'with_toc_data']
+
+kramdown:
+  parse_block_html: true
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:  compressed
+
+remote_theme: chesterhow/tale
+
+# Gems
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-remote-theme
+
+# Permalinks
+permalink: pretty
+paginate:       4
+
+# Excludes
+exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
+
+# # Disqus (Set to your disqus id)
+# disqus:         jekyll-tale

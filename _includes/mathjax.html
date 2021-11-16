@@ -1,0 +1,22 @@
+{% if site.mathjax %}
+
+<script type="text/x-mathjax-config">
+ MathJax.Hub.Config({
+   extensions: ["tex2jax.js", "[Contrib]/physics/physics.js", "[Contrib]/siunitx/siunitx.js",  "[MathJax]/extensions/TeX/color.js", "https://writerthethinker1.github.io/relax_write/mathjax/stats.js"],
+   tex2jax: {
+     inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+     displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+     processEscapes: true
+   },
+   CommonHTML: { linebreaks: { automatic: true } },
+  "HTML-CSS": { linebreaks: { automatic: true } },
+   SVG: { linebreaks: { automatic: true } },
+   TeX: { equationNumbers: { autoNumber: "AMS" },
+           Macros: { //any extra here...
+                      }}
+ });
+</script>
+
+<script type="text/javascript" src="//mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+{% endif %}

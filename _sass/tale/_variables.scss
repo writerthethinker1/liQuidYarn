@@ -1,0 +1,31 @@
+// Colors
+$default-color: #444 !default;
+$default-shade: #353535 !default;
+$default-tint: #aaa !default;
+$grey-1: #979797 !default;
+$grey-2: #DAD9DB !default;
+$grey-3: #e8e8e8 !default;
+$grey-4: #696869 !default;
+$white: #fff !default;
+$blue: #4a9ae1 !default;
+$orange: #EE841E !default;
+$shadow-color: rgba(0, 0, 0, .2) !default;
+$code-color: #bf616a !default;
+
+// Fonts
+$serif-primary: 'Libre Baskerville' !default;
+$serif-secondary: 'Palatino' !default;
+$sans-serif: 'Arial' !default;
+$monospaced: Monaco, monospace !default;
+
+@mixin box-sizing($type: border-box) {
+  -webkit-box-sizing: $type;
+     -moz-box-sizing: $type;
+          box-sizing: $type;
+}
+
+@mixin transition($args...) {
+  -webkit-transition: $args;
+     -moz-transition: $args;
+          transition: $args;
+}

@@ -1,5 +1,5 @@
 ## Readme: quantum
 
-stay curious!
+Stay curious! Much more later...
 
-> golden.
+> golden. 
