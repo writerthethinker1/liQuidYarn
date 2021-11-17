@@ -3,6 +3,9 @@ layout: post
 title:  "Math Check"
 date: "2021-06-11"
 tags: Intro
+preview: "Testing out math..."
+footnotes: footnotes/math-check.md
+contents: true
 ---
 
 Just some checks to make sure everything's alright...
@@ -31,4 +34,6 @@ $$
 \pmatrix{a & b \\ c & d} = B'A
 $$
 
-Looks nice!
+Looks nice![^1]
+
+{% include signature.html %}

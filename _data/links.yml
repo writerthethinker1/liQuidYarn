@@ -1,0 +1,15 @@
+quantum_links: "quantum links"
+
+structure:
+
+- title: "Articles"
+  url: "/"
+  show: true
+
+- title: "Tags"
+  url: "/tags/"
+  show: true
+
+- title: "About"
+  url: "/about/"
+  show: true

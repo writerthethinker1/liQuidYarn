@@ -6,7 +6,7 @@ url:            "https://writerthethinker1.github.io/"
 
 # Author
 author:
-  name:         Chester How
+  name:         Ramneek Narayan
 
 # Build settings
 mathjax: true #if you want to use math...
@@ -23,14 +23,15 @@ sass:
   sass_dir:     _sass
   style:  compressed
 
-remote_theme: chesterhow/tale
+# remote_theme: chesterhow/tale
+theme: tale
 
 # Gems
 plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-seo-tag
-  - jekyll-remote-theme
+  # - jekyll-remote-theme
 
 # Permalinks
 permalink: pretty

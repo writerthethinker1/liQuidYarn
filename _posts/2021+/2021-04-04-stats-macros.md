@@ -3,9 +3,9 @@ layout: post
 title: "Statistics Macros"
 date: "2021-04-04"
 tags: Intro
+preview: "Stats typing tips!"
+contents: true
 ---
-
-{% include toc.html %}
 
 All other macros are given in this post, just check the .md file for this musing to see what to type to render them in mathjax. Happy typing, hope it's relaxing. Macros make life easier. These are the macros used often in statistics but not included in mathjax.
 
@@ -106,3 +106,5 @@ For order statistics, there is `\ord{..}{..}` that gives $\ord{Y}{5}$.
 ### Wrapping Up...
 
 This wraps up the statistics macros for the site. These aren't part of any latex packages so only for here using jekyll blogs or the mathjax macros given here. There might be a giant .js file that works much like the physics.js file to load all the macros for the physics stuff. It doesn't change functionality, but makes the configuration nicer to read.
+
+{% include signature.html %}

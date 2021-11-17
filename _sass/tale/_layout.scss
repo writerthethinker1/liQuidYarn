@@ -4,6 +4,20 @@
   width: 80%;
 }
 
+.page-wrap {
+  min-height: 90%;
+  /* equal to footer height */
+  margin-bottom: -142px;
+}
+.page-wrap:after {
+  content: "";
+  display: block;
+}
+
+.site-footer, .page-wrap:after {
+  height: 142px;
+}
+
 main,
 footer,
 .nav-container {
@@ -84,6 +98,7 @@ footer {
   font-family: $serif-secondary;
   padding: 2rem 0;
   text-align: center;
+
 
   span {
     color: $default-color;

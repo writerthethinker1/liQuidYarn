@@ -3,9 +3,9 @@ layout: post
 title: "Math & Physics Macros"
 date: "2021-04-04"
 tags: Intro
+preview: "Cool typing tips!"
+contents: true
 ---
-
-{% include toc.html %}
 
 ### Item wrapping
 
@@ -125,3 +125,5 @@ $$
 $$
 
 That's about if for the math and physics related vectors given here! Enjoy the day and have a positive outlook on things.
+
+{% include signature.html %}

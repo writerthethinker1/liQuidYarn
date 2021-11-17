@@ -4,9 +4,11 @@
       <h2 class="nav-title">{{ site.title }}</h2>
     </a>
     <ul>
-      <li><a href="{{ site.baseurl }}/">Articles</a></li>
-      <li><a href="{{ '/tags' | prepend: site.baseurl }}">Tags</a></li>
-      <li><a href="{{ '/about' | prepend: site.baseurl }}">About</a></li>
+    {% for item in site.data.links.structure %}
+      {% if item.show == true %}
+        <li><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></li>
+      {% endif %}
+    {% endfor %}
     </ul>
   </div>
 </nav>
