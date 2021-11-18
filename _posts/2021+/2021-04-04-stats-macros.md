@@ -2,7 +2,7 @@
 layout: post
 title: "Statistics Macros"
 date: "2021-04-04"
-tags: Intro
+tag: Intro
 preview: "Stats typing tips!"
 contents: true
 ---

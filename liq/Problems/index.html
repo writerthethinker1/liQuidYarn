@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Problems"
+comment: "Here are the problems!"
+---
+
+{{ page.comment }}
+
+<br><br>
+
+{% for thing in site.liq %}
+  <a class="tags-post" href="{{ site.baseurl }}{{ thing.url }}" style="text-decoration:none">
+    <span class="tags-post-title">{{ thing.title }}<div class="tags-post-line"></div></span>
+    <span class="tags-post-meta"><time datetime="{{ thing.date }}">{{ thing.date | date: "%B %d, %Y" }}</time></span>
+  </a>
+{% endfor %}

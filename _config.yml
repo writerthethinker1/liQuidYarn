@@ -1,8 +1,9 @@
 # Site settings
 title:          Quantum
 description:    "make joy from tiny things..."
-baseurl:        "/quantum/"
 url:            "https://writerthethinker1.github.io/"
+baseurl:        "/quantum/"
+
 
 # Author
 author:
@@ -18,13 +19,19 @@ redcarpet:
 kramdown:
   parse_block_html: true
 
+collections:
+  liq:
+    output: true
+  liq_sol:
+    output: true
+
 # Assets
 sass:
   sass_dir:     _sass
   style:  compressed
 
-# remote_theme: chesterhow/tale
-theme: tale
+remote_theme: chesterhow/tale
+# theme: tale
 
 # Gems
 plugins:

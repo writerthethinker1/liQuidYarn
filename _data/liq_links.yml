@@ -1,0 +1,11 @@
+liq_links: "liq links"
+
+structure:
+
+- title: "Problems"
+  url: "/liq/problems/"
+  show: true
+
+- title: "Solutions"
+  url: "/liq/solutions/"
+  show: true

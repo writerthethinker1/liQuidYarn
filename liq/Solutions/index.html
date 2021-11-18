@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Solutions"
+comment: "Here are the solutions!"
+---
+
+
+{{ page.comment }}
+
+<br><br>
+
+{% for thing in site.liq_sol %}
+  <a class="tags-post" href="{{ site.baseurl }}{{ thing.url }}" style="text-decoration:none">
+    <span class="tags-post-title">{{ thing.title }}<div class="tags-post-line"></div></span>
+    <span class="tags-post-meta"><time datetime="{{ thing.date }}">{{ thing.date | date: "%B %d, %Y" }}</time></span>
+  </a>
+{% endfor %}

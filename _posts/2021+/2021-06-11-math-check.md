@@ -2,7 +2,7 @@
 layout: post
 title:  "Math Check"
 date: "2021-06-11"
-tags: Intro
+tags: Test
 preview: "Testing out math..."
 footnotes: footnotes/math-check.md
 contents: true
@@ -33,6 +33,19 @@ $$
 $$
 \pmatrix{a & b \\ c & d} = B'A
 $$
+
+Trying out numbering equations:
+
+$$
+\begin{equation}a^2 = 6s\end{equation}
+$$
+
+Table:
+
+Column | Column | Column
+:----- | :----: | -----:
+Left   | Center | Right
+align  | align  | align
 
 Looks nice![^1]
 

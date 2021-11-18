@@ -8,11 +8,12 @@ layout: default
   <h1 class="post-title">{{ page.title }}</h1>
   <div class="post-info">
     {% if page.date %}
-      <time datetime="{{ page.date }}" style="font-size:20px"><i>{{ page.date | date: "%B %d, %Y" }}</i> </time> &#8729;
+      <time datetime="{{ page.date }}" style="font-size:20px"><i>{{ page.date | date: "%B %d, %Y" }}</i></time>
     {% endif %}
 
-    {% if page.tags %}
-    <i style="font-size:20px">#{{ page.tags }}</i>
+    {% assign total_tags = page.tags | size %}
+    {% if total_tags > 0 %}
+      &#8729; <i style="font-size:20px">#{{ page.tags }}</i>
     {% endif %}
   </div>
 

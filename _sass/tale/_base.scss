@@ -73,6 +73,33 @@ img {
   max-width: 100%;
 }
 
+/**
+ * Table
+ */
+table {
+    width: 100%;
+    max-width: 100%;
+    border-collapse: separate;
+    border-spacing: 0;
+    table-layout: fixed;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+
+}
+
+th,
 td {
-  vertical-align: top;
+    padding: 0.5rem;
+    line-height: inherit;
+}
+
+th {
+    text-align: left;
+    vertical-align: bottom;
+    border-bottom: 2px solid $grey-2;
+}
+
+td {
+    vertical-align: top;
+    border-bottom: 1px solid $grey-2;
 }

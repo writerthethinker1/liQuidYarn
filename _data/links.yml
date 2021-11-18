@@ -6,6 +6,10 @@ structure:
   url: "/"
   show: true
 
+- title: "Liq"
+  url: "/liq/"
+  show: true
+
 - title: "Tags"
   url: "/tags/"
   show: true

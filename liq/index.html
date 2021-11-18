@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Liq"
+comment: "Your liq is a measure of your general rational thinking ability."
+---
+
+{{ page.comment }}
+
+<br><br>
+
+<div>
+  {% for item in site.data.liq_links.structure %}
+    {% if item.show == true %}
+      <a class="tags-post" href="{{ site.baseurl }}{{ item.url }}" style="text-decoration:none">
+      <h1 class="catalogue-title"># {{ item.title }}<div class="tags-post-line"></div></h1>
+      </a>
+    {% endif %}
+  {% endfor %}
+</div>

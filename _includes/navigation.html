@@ -3,12 +3,14 @@
     <a href="{{ site.baseurl }}/">
       <h2 class="nav-title">{{ site.title }}</h2>
     </a>
+    <div>
     <ul>
     {% for item in site.data.links.structure %}
       {% if item.show == true %}
-        <li><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></li>
+        <li><a href="{{ site.baseurl }}{{ item.url }}" style="font-family:Chalkboard;">{{ item.title }}</a></li>
       {% endif %}
     {% endfor %}
     </ul>
+    </div>
   </div>
 </nav>
