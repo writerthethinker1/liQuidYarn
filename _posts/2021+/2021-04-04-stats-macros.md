@@ -4,6 +4,7 @@ title: "Statistics Macros"
 date: "2021-04-04"
 tag: Intro
 preview: "Stats typing tips!"
+footnotes: false
 contents: true
 ---
 
@@ -54,7 +55,7 @@ $$
 
 with the latex code as
 
-```
+```latex
 $$
 \text{Name: } \expo \ \ \ f(x|\beta) = \expod{x}{\beta} \ \ \
 \E{X} = \expoex{\beta} \ \ \ \Var{X} = \expovar{\beta} \

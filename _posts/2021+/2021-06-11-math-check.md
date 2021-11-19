@@ -28,6 +28,8 @@ $$
 \int_a^b xy dx = 4
 $$
 
+This integral evaluates to 4.[^1]
+
 ## Matrix
 
 $$
@@ -40,6 +42,13 @@ $$
 \begin{equation}a^2 = 6s\end{equation}
 $$
 
+Some points:
+
+* math is Cool
+* physics is cooler
+* chemistry is ice cold
+* etc...
+
 Table:
 
 Column | Column | Column
@@ -47,6 +56,6 @@ Column | Column | Column
 Left   | Center | Right
 align  | align  | align
 
-Looks nice![^1]
+Looks nice![^2]
 
 {% include signature.html %}

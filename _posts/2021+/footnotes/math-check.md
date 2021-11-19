@@ -1,1 +1,2 @@
-[^1]: this is a footnote
+[^1]: another footnote
+[^2]: this is a footnote
