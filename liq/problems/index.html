@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Problems"
-comment: "Here are the problems! New!"
+comment: "Up for a challenge? Try out theses problems! Some are from the humanities and others are from the sciences. In either case, you'll be thinking logically and all of the information you need is there or given from previous works you might have done."
 ---
 
 {{ page.comment }}
@@ -9,7 +9,7 @@ comment: "Here are the problems! New!"
 <br><br>
 
 {% for thing in site.liq %}
-  <a class="tags-post" href="{{ site.baseurl }}{{ thing.url }}" style="text-decoration:none">
+  <a class="tags-post" href="{{ site.baseurl }}{{ thing.url }}" style="text-decoration:none;font-size:23px">
     <span class="tags-post-title">{{ thing.title }}<div class="tags-post-line"></div></span>
     <span class="tags-post-meta"><time datetime="{{ thing.date }}">{{ thing.date | date: "%B %d, %Y" }}</time></span>
   </a>

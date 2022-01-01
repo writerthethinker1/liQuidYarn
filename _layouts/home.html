@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="catalogue">
+<div class="catalogue" style="margin-top:0.5rem">
   {% for post in paginator.posts %}
     <a href="{{ post.url | prepend: site.baseurl }}" class="catalogue-item">
       <div>

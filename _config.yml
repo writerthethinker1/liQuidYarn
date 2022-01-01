@@ -1,6 +1,6 @@
 # Site settings
 title:          Quantum
-description:    "make joy from tiny things..."
+description:    "Explore your curiosity!"
 url:            "https://writerthethinker1.github.io/"
 baseurl:        "/quantum/"
 
@@ -11,6 +11,7 @@ author:
 
 # Build settings
 mathjax: true #if you want to use math...
+images: "gold-storage"
 markdown: kramdown
 highlighter: rouge
 redcarpet:
