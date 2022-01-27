@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Set 1"
+title: "Set 1: Math"
 date: "2021-12-31"
 ---
 

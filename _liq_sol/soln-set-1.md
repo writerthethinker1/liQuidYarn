@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Solution Set 1"
+title: "Solution Set 1: Math"
 date: "2021-12-31"
 ---
 
