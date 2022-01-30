@@ -4,10 +4,18 @@ title: "About"
 ---
 
 
-I hope this will be a fun site for you to visit for relaxation and a break from the usual stuff in life. If you are student, maybe these notes can help you see other ways of approaching the same problems. If you have experience with quantum mechanics or are an instructor, you might like these quantum themed articles.
+Welcome to Quantum! Quantum is a company designed to bring you the latest breakthroughs in the field of quantum physics and computing both via texts and devices.
 
-> Just remember, these are just works in progress. There might be errors and you or your buddies will have to make sure what's written agrees with observations.
+### How can Quantum improve quality of life?
 
-Relax, have some tea, meditate, and read on! Regardless of who you are, there's something for everybody.
+Using quantum physics we can help block out harmful electromagnetic frequencies and generate new types of computer code. This lets us live healthier lives around the same things we enjoy, like gaming computers, phones, and televisions. We also have a new set of tools to explore and do more with computer science.
+
+### What are the articles about?
+
+The articles given on the site are previews of the main articles and books sold. The books comes with diagrams, illustrations, various colored texts, and worked out problems. You can buy books for each subject related to quantum physics for a small fee (donation). *If you really like the articles or are curious give the books a try!* In addition, the problems given in the [Liq]({{ "liq" | absolute_url }} ) are samples of the main ones with detailed solutions given in book format.
+
+> Your purchases/donations help us come up with better, faster, and glossier devices! You are supporting the field of quantum physics! 
+
+More details later as year goes on! Have a great day!
 
 <img src="{{ site.images | relative_url }}/stone.png" width="50%" height="50%" />
