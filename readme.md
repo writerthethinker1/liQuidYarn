@@ -35,4 +35,4 @@ The ideas are still works in progress and slowly information will pan out when t
 
 🗡🔥
 
-![golden](https://writerthethinker1.github.io/quantum/gold-storage/gold_ring_alt.jpeg)
+![golden](https://writerthethinker1.github.io/liQuidYarn/gold-storage/gold_ring_alt.jpeg)
