@@ -1,38 +1,7 @@
-## It's Quantum!
+## It's liQuidYarn!
 
-> Initial release: 31.12.21; Golden!
+> Initial release: 01.01.2024; Millennium!
 
-Welcome! I hope you enjoy playing with these quantum themed ideas! They're all on the website linked in this repo! Go check it out, you're free to share and distribute the ideas!
+An academic publishing site all about new findings in alchemy, magick, mazerai, and medicinal science! We publish scientific papers about spirituality and complex mathematics at the same time. The world we live in is actually very complex and uses high level mathematics as well as spiritual science. When we start to merge spirituality with science, the equations become more difficult and we arrive at *paradoxes* due to special relativistic effects. The real way to solve these paradoxes is with the idea of a spirit. Spirituality is all about our bodies and they react with the environment. Certain ideas about this place come up under a special relativistic frame and at this point, it is safe to open our minds spiritually as to what the world really is. For example, we can understand *death* as a shift in quantum state, but to really know what happens to us when we die, we need a Death Note, some type of spiritual item to help us figure out how our spirits are.
 
-In time, they will be released complete with proofs and explanations!
-
-We will be taking a closer look at some concepts about *chance, games, statistics, math, computer science, etc...* (Even literature and writing).
-
-> It's a whole quantum universe!
-
-And...as a bonus, we will be *connecting classical theories with quantum theories!* Things like Newtonian with Quantum Mechanical or at least showing logically why the two differ in interpretation. Maybe for a grand unified theory approach. Who knows? You will see how if we change some of the rules around how you can approach quantum theories from classical ones.
-
-We'll start with classical logic and work our way up to a quantum logic by introducing chance.
-
-Welcome to 2022! Hope it's great, full of joy and maybe new resolutions! There's something for everyone!
-
-1. Physicists
-2. Chemists
-3. Anthropologists
-4. Machine Learning Engineers
-5. Statistics
-6. Mathematicians
-7. Logicians
-8. Philosophers, Humanities
-9. AI Engineers
-10. Coders
-11. Computer Scientists
-12. and so on...
-
-The ideas are still works in progress and slowly information will pan out when the articles are decent. Overtime, you'll find posts for various topics.
-
-> We'll tie it all together with *the connection.* Connecting mechanics with quantum or at least explaining how the two grew to be separate.
-
-🗡🔥
-
-![golden](https://writerthethinker1.github.io/liQuidYarn/gold-storage/gold_ring_alt.jpeg)
+> Up to a certain point, science has problems and we eventually, using heavy logic, must accept the inevitable; that life has a spiritual foundation and we play an active role in it each day. Take the field of metaphysics, this is actually a real science. Metaphysics is the key to understanding special relativity and spirituality. There are tools and laws in the world of metaphysics and they are all spiritual.
