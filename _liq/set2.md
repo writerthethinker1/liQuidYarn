@@ -6,7 +6,7 @@ date: "2022-01-26"
 
 Welcome to the second set!
 
-5 questions, 30min.
+**5 questions: 30min.**
 
 Theme: statistics, all questions from statistics. These are from basic statistics for everyone, no specialised knowledge required. Suitable for the general person.
 

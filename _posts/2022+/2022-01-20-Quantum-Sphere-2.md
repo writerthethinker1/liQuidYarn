@@ -2,7 +2,7 @@
 layout: post
 title: "Seeing the Sphere: Part II"
 tags: Sphere
-preview: "Going deeper and completing the way to travel on the sphere! You can now see a vector and know where it is by pointing on the sphere. Easy."
+preview: "Going deeper and completing the way to travel on the sphere! Easy."
 contents: true
 footnotes: false
 published: true

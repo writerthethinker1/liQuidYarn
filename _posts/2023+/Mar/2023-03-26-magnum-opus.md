@@ -5,7 +5,7 @@ tags: Philosopher_Stone
 preview: "We explain how to make the orichalcos fire philosopher stone after many centuries of thought. It is finally here! All public and available for download. Enjoy!"
 contents: false
 footnotes: false
-published: true
+published: false
 ---
 
 The main text for the *magnum opus* is given in the link below! Feel free to send us questions on reddit, or by the emails given on this site!

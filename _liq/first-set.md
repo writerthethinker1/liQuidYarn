@@ -8,7 +8,7 @@ date: "2021-12-31"
 
 **5 problems: 30min.**
 
-> Focus! Block out distractions! Your time will NOT be taken into account when measuring your liq. You can take all of it or less, once you think you are done, you can't edit anymore. So, finishing early gives you nothing.
+> Focus! Block out distractions! Your time will NOT be taken into account when measuring your $iq^\ell$. You can take all of it or less, once you think you are done, you can't edit anymore. So, finishing early gives you nothing.
 
 ## No. 1
 

@@ -1,7 +1,7 @@
 ## It's liQuidYarn!
 
-> Initial release: 01.01.2024; Millennium!
+> Release: 24.04.2024; Pandora!
 
-An academic publishing site all about new findings in alchemy, magick, mazerai, and medicinal science! We publish scientific papers about spirituality and complex mathematics at the same time. The world we live in is actually very complex and uses high level mathematics as well as spiritual science. When we start to merge spirituality with science, the equations become more difficult and we arrive at *paradoxes* due to special relativistic effects. The real way to solve these paradoxes is with the idea of a spirit. Spirituality is all about our bodies and they react with the environment. Certain ideas about this place come up under a special relativistic frame and at this point, it is safe to open our minds spiritually as to what the world really is. For example, we can understand *death* as a shift in quantum state, but to really know what happens to us when we die, we need a Death Note, some type of spiritual item to help us figure out how our spirits are.
+A company all about new findings in quantum physics! Check out our products ranging from quantum computer code (cirq, apple-dot, python, etc...), books, articles, and devices! All fairly priced and well made; you can also make a donation too. We are a *decentralized service* that is not associated with any government or local authority. Made possible by the framework and tools of the Tor project.
 
 > Up to a certain point, science has problems and we eventually, using heavy logic, must accept the inevitable; that life has a spiritual foundation and we play an active role in it each day. Take the field of metaphysics, this is actually a real science. Metaphysics is the key to understanding special relativity and spirituality. There are tools and laws in the world of metaphysics and they are all spiritual.

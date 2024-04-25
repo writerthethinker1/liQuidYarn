@@ -2,13 +2,13 @@
 layout: post
 title: "Seeing the Sphere: Part I"
 tags: Sphere
-preview: "How can we navigate the Bloch Sphere? Know where we are at just by looking at the vector? The real numbers are explained here!"
+preview: "How can we navigate the Bloch Sphere? The real numbers are explained here!"
 contents: true
 footnotes: false
 published: true
 ---
 
-# Seeing the Sphere: Part I 🗡🔥
+# Seeing the Sphere: Part I
 
 How do we know where we are on the Bloch Sphere? What does something like
 

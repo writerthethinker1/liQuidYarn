@@ -11,7 +11,7 @@ published: true
 
 # Beginning Quantum Logic...
 
-Hello and welcome to **calm, happy, and peaceful quantum computing!** We hope you're relaxed and comfortable. We're going to be talking about other ways to approach old logical settings all from using ideas used in quantum mechanics. So-called *quantum logic*. Rather than start with the basics and give you notation, how to write statements, and truths, we're going to embed them all in this article. There's a separate article for the notation, so if you're stuck, give it a read! This page will be right here waiting...Let's go!
+Hello and welcome to **quantum computing!** We hope you're relaxed and comfortable. We're going to be talking about other ways to approach old logical settings all from using ideas used in quantum mechanics. So-called *quantum logic*. Rather than start with the basics and give you notation, how to write statements, and truths, we're going to embed them all in this article. There's a separate article for the notation, so if you're stuck, give it a read! This page will be right here waiting...Let's go!
 
 ## First lesson: $(\vec{\varphi} \oplus \circ\vec{\varphi})$ the sentence "p or not p"
 
