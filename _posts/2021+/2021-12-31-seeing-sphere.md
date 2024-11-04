@@ -148,13 +148,13 @@ We know we are at the bottom of the sphere, directly south and took the opposite
 The quantum sphere is not like a regular sphere we usually learn in plain geometry and can be easier once we know how to use the quantum circle. We use complex numbers to preserve information about the path a person took to walk on it and they come in handy. Later, in part II we will add complex numbers to give *depth* to the sphere and arrive that the notation we use today in quantum mechanics:
 
 $$
-|\varphi \rangle = \cos(\theta/2)e^{i \gamma}\ket{0} + \sin(\theta/2)e^{i(\gamma + \delta)}\ket{1}
+|\varphi \rangle = \cos(\theta/2)e^{i \gamma} |0 \rangle + \sin(\theta/2)e^{i(\gamma + \delta)} |1 \rangle
 $$
 
 we just explained
 
 $$
-\ket{\varphi} = \cos(\theta/2)\ket{0} + \sin(\theta/2)\ket{1}
+|\varphi \rangle = \cos(\theta/2) |0 \rangle + \sin(\theta/2) |1 \rangle
 $$
 
 which is a two dimensional quantum circle.
